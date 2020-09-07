@@ -1,7 +1,7 @@
-# Game #17
+# Game #37
 A small clone of [32768](http://nikeix.github.io/32768), based on [Gabriele Cirulli's 2048](http://git.io/2048) (also a clone).
 
-Made just for fun. [Play it here!](https://thereal2048.github.io/game17)
+Made just for fun. [Play it here!](https://thereal4096.github.io/game37)
 
 ### Screenshot
 
